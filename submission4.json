@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal two-panel diptych scene showing two separate small races on the left side where blue runners are ahead of red runners in both groups, and on the right side a combined larger race where red runners are now ahead of blue runners, visually consistent environment, no text, no numbers, no charts, cinematic lighting, realistic human figures, strong contrast, emotional confusion, natural scene, high detail, no symbols or diagrams",
+  "model": "Gemini Image Generation",
+  "paradox": "Simpson’s Paradox",
+  "visual_logic": "Two small groups show the same outcome, but when combined into one larger group the outcome reverses, creating a visual contradiction between local and global results."
+}
