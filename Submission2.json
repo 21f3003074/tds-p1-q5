@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic scene of a tailor in a small shop stitching an extremely tight and perfectly fitted suit on a mannequin, the suit fits the mannequin flawlessly but looks unusable for anyone else, other people in the background trying similar suits that clearly do not fit them, natural lighting, highly realistic photography style, no text, no diagrams, no labels, no abstract elements, real-world setting, emotional subtle storytelling",
+  "model": "Gemini Image Generation",
+  "concept": "Overfitting",
+  "metaphor": "A suit perfectly tailored for one person but unusable for others, representing a model that fits training data but fails to generalize."
+}
