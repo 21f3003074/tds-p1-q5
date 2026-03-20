@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal conceptual visualization of Earth shaped like human lungs, the left side lush green and healthy, the right side dark, polluted, and filled with smoke, gradual transition from clean to toxic, representing increasing CO2 emissions over time, no charts, no text, cinematic lighting, hyper-realistic, emotional, environmental crisis, dramatic contrast, dark atmosphere, high detail",
+  "model": "Gemini Image Generation",
+  "dataset_name": "Global CO2 Emissions Dataset",
+  "dataset_url": "https://ourworldindata.org/co2-emissions",
+  "insight": "Rising CO2 emissions are gradually suffocating the Earth like damaged lungs."
+}
